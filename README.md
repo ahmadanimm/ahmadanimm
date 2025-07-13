@@ -25,7 +25,7 @@
 
 ### Stats 📈
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/leviarista">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadanimm&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="AhmadAnim's GitHub Stats" />
     </a>
